@@ -9,7 +9,7 @@
 
 ---
 
-### 🚀 `[NEURAL LOGS // ABOUT ME]`
+### 🚀 `[ABOUT ME]`
 
 <table width="100%">
   <tr>
