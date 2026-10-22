@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Joel-Sujo/Joel-Sujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ⚡ INITIALIZING USER: JOEL_SUJO.SYS ⚡
+### <ins>Computer Science Student // Agentic AI & Cloud Architect // System Hacker</ins>
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=CS+Student+%40+MITS+Kochi;Python+%7C+C%2B%2B+%7C+Cloud+%7C+Agentic+AI;Building+Smart+Systems+%26+Next-Gen+Tech)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 🚀 `[NEURAL LOGS // ABOUT ME]`
+
+```bash
+> joel@mits-terminal:~$ whoami
+📍 Location : Kochi, Kerala, India
+🎓 Education: B.Tech Computer Science Engineering @ Muthoot Institute of Technology & Science (MITS)
+🏛️ IEEE     : Active Member @ IEEE & IEEE Computer Society
+🎯 Core Focus: Python, C++, Cloud Compute, Agentic Workflows, Deep Learning
