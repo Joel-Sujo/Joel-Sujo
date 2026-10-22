@@ -1,6 +1,4 @@
-### Option 3: 🧬 **Cyber Matrix HUD Card**
 
-```html
 <div align="center">
 
 # ⚡ INITIALIZING USER: JOEL_SUJO.SYS ⚡
